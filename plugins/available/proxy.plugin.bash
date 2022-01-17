@@ -34,9 +34,9 @@ enable-proxy ()
 	export NO_PROXY=$no_proxy
 	echo "Enabled proxy environment variables"
 
-	npm-enable-proxy
-	ssh-enable-proxy
-	svn-enable-proxy
+	# npm-enable-proxy
+	# ssh-enable-proxy
+	# svn-enable-proxy
 }
 
 enable-proxy-alt ()

@@ -3,9 +3,10 @@ alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
 alias ll='ls -alh'
-alias proxy="export http_proxy=http://192.168.190.1:7890 && export https_proxy=http://192.168.190.1:7890"
-alias unproxy="unset http_proxy && unset https_proxy"
-
+# alias proxy="export http_proxy=http://192.168.190.1:7890 && export https_proxy=http://192.168.190.1:7890"
+# alias unproxy="unset http_proxy && unset https_proxy"
+alias br='bash-it reload'
+alias bt='bash-it'
 
 
 # dnmp alias
