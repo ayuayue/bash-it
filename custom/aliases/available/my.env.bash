@@ -1,9 +1,5 @@
 #!/usr/bin/env bash
 
-# proxy
-export BASH_IT_HTTP_PROXY=http://192.168.93.1:7890
-export BASH_IT_HTTPS_PROXY=http://192.168.93.1:7890
-export BASH_IT_NO_PROXY=http://127.0.0.1
 
 # env
 export LC_ALL=en_US.UTF-8  
